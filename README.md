@@ -18,5 +18,4 @@ This is a simple C++ project that implements a basic file compression tool using
 - Understood time-space tradeoffs in compression
 - Improved memory efficiency
 
-## Author
-A student learning data structures and algorithms!
+
